@@ -17,6 +17,7 @@ data scientists are the ones who brought it back. You're welcome.
 | # | What it covers |
 |---|----------------|
 | 001| Representing things in rdflib + why Namespace is not just shorthand |
+|002| Interesting insight from Spacy's Tokenization | 
 
 ## Stack
 
